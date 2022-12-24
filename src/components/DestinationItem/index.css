@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.destinationCard {
+  list-style-type: none;
+  margin-left: 20px;
+}
+.images {
+  height: 150px;
+  width: 150px;
+}
